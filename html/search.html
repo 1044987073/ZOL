@@ -1,0 +1,41 @@
+<div id="seacher_new">
+	<div id="seacher_l">
+		<div id="seacher_l_logo">
+			<a href="##" title="ZOL商城">
+				<img src="../images/logo_157x32.png" />
+			</a>
+		</div>
+		<div id="seacher_l_logoright">
+			<span>全国</span>
+			<ul class="hide">
+				<li>北京</li>
+				<li>成都</li>
+				<li>青岛</li>
+				<li>沈阳</li>
+				<li class="red">全国</li>
+			</ul>
+		</div>
+	</div>
+	<div id="seacher_c">
+		<input type="text" class="text" />
+		<input type="submit" class="submit" value="搜索" />
+	</div>
+	<div id="seacher_rr">
+		<a href="javascript:;" class="login">登录</a>
+		<a href="register.html" class="reg">注册</a>
+	</div>
+</div>
+<script>
+	$(window).scroll(function() {
+		var $scrolltop = $(this).scrollTop();
+		if($scrolltop > 200) {
+			$('#seacher_fly').show();
+			$('#seacher').hide();
+		} else {
+			$('#seacher_fly').hide();
+			$('#seacher').show();
+		}
+	})
+</script>
+<script type="text/javascript" src="../js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/index.js"></script>

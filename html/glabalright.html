@@ -1,0 +1,38 @@
+<div id="fixed_right">
+	<div class="order cover">
+		<div>我的订单</div>
+	</div>
+	<div class="track cover">
+		<div>我的足迹</div>
+	</div>
+	<div class="cart cover">
+		<p></p>
+		<div>购物车</div>
+		<a href="cart.html"></a>
+	</div>
+	<div class="discount cover">
+		<div>优惠券</div>
+	</div>
+	<div class="suggest">
+		<a href="javascript:;">建议反馈</a>
+	</div>
+	<div class="toUp cover">
+	</div>
+</div>
+<script>
+	function addCookie(key, value, day) {
+		var date = new Date();
+		date.setDate(date.getDate() + day);
+		document.cookie = key + '=' + encodeURI(value) + ';expires=' + date;
+	}
+	function getCookie(key) {
+		var str = decodeURI(document.cookie);
+		var arr = str.split('; ');
+		for(var i = 0; i < arr.length; i++) {
+			var arr1 = arr[i].split('=');
+			if(key == arr1[0]) {
+				return arr1[1];
+			}
+		}
+	}
+</script>

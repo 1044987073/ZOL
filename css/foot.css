@@ -1,0 +1,162 @@
+dd,
+dt {
+	font-family: "微软雅黑";
+}
+
+.footNav {
+	width: 100%;
+	background: #2D2D2D;
+}
+
+.foot_nav {
+	height: 190px;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.foot_nav a:hover {
+	text-decoration: none;
+}
+
+.foot {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	overflow: hidden;
+}
+
+.foot a:hover {
+	text-decoration: none;
+	color: #333;
+}
+
+.foot_nav {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.foot dl {
+	float: left;
+	margin-right: 92px;
+}
+
+.foot dt {
+	font-weight: 600;
+	font-size: 14px;
+	color: #333;
+	clear: both;
+}
+
+.foot dd,
+#foot dt {
+	line-height: 30px;
+}
+
+.foot dd {
+	font-size: 12px;
+	color: #000;
+}
+
+.foot_special dt {
+	font-size: 16px;
+}
+
+.foot_special {
+	background: url(../images/footer.png) no-repeat;
+	padding-left: 50px;
+}
+
+.time {
+	background-position-y: -90px;
+}
+
+.about {
+	background-position-y: -215px;
+}
+
+.sina {
+	padding-left: 22px;
+}
+
+.foot p {
+	background: #FF3333;
+	border-radius: 5px;
+	width: 70px;
+	color: white;
+	padding: 5px 10px;
+	font-size: 14px;
+}
+
+.foot_nav dd {
+	float: left;
+}
+
+.partner dt {
+	color: #666;
+	font-size: 12px;
+}
+
+.foot_nav a {
+	color: white;
+}
+
+.foot_nav span,
+ul.ZOL a,
+.foot_nav div a,
+.foot_nav div span {
+	font-family: "微软雅黑";
+	color: #CCCCCC;
+	font-size: 14px;
+}
+
+dl.partner {
+	margin-top: -22px;
+	margin-left: 67px;
+}
+
+dl.partner dd {
+	margin-bottom: 13px;
+}
+
+.foot_nav ul.ZGC {
+	margin-top: 66px;
+	margin-left: -20px;
+}
+
+.foot_nav .partner dd {
+	padding-left: 20px;
+	padding-right: 18px;
+	border-right: 1px solid #666666;
+}
+
+.foot_nav .ZOL li.ZGC_specail,
+.foot_nav .ZGC li.ZGC_specail {
+	border-right: none;
+}
+
+.foot_nav .ZGC li,
+.foot_nav .partner dd,
+.foot_nav .ZOL li {
+	padding-left: 20px;
+	padding-right: 18px;
+	border-right: 1px solid #666666;
+}
+
+.foot_nav ul.ZGC li,
+.foot_nav ul.ZOL li {
+	float: left;
+}
+
+.foot_nav ul.ZOL {
+	margin-top: 100px;
+	margin-left: -20px;
+}
+
+.foot_nav div.div_t {
+	margin-top: 150px;
+}
+
+.foot_nav div.div_t a,
+.foot_nav div.div_t span {
+	font-size: 12px;
+	margin-right: 40px;
+}

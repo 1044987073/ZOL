@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>购物车页面</title>
+		<link rel="stylesheet" href="../css/cart.css" />
+		<link rel="stylesheet" href="../css/index.css" />
+	</head>
+	<body>
+			<div id="nav_top">
+			<div id="nav">
+				<div class="nav_left">
+					<a href="index.html">商城首页</a>
+					<span>Hi~欢迎来到ZOL商城，</span>
+					<a href="login.html" class="hover_pre login_cart">请登录</a>
+					<a href="register.html" class="hover_pre reg_cart">免费注册</a>
+				</div>
+				<div class="nav_right">
+					<ul>
+						<li>
+							<a href="##">我的订单</a>
+						</li>
+						<li>
+							<a href="##" class="relative">买家中心
+								<em class="icon_2"></em>
+							</a>
+							<ul class="hide buyer">
+								<li>
+									<a href="##">关注的店铺<span>30</span></a>
+								</li>
+								<li>
+									<a href="##">关注的商品<span>47</span></a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="##" class="piece">购物车0件</a>
+						</li>
+						<li>
+							<a href="##" class="x">帮助中心</a>
+						</li>
+						<li>
+							<a href="##" class="icon_1 relative">
+								手机商城
+								<em class="icon_2 low"></em>
+							</a>
+							<ul class="hide">
+								<li>
+									<a href="javascript: ;"><img src="../images/shop_wechat.png" class="QRcode" /></a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="##">中关村在线</a>
+						</li>
+						<li>
+							<a href="##">商家入驻</a>
+						</li>
+						<li>
+							<a href="##" class="relative">联系客服
+								<em class="icon_2"></em>
+							</a>
+							<ul class="hide phone">
+								<li>400-678-0068</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div id="top">
+			<div class="top_l">
+				<img src="../images/shop_182x60.png" title="ZOL商城" />
+				<a href="javascript:;" class="simple">中关村在线旗下网上商城</a>
+			</div>
+			<div class="top_r">
+				<ul>
+					<li>下订单</li>
+					<li>去付款</li>
+					<li>确认收货</li>
+					<li>评价</li>
+				</ul>
+				<span class="litter">购物车状态(2/30)</span>
+				<div class="sumdiv">
+					<span>总计（不含运费）:</span>
+					<span class="sum_price">￥0</span>
+					<button>去结算</button>
+				</div>
+			</div>
+		</div>
+		<div id="content_cart">
+			<div id="content_cart_top">
+				<ul>
+					<li class="checkbox"><input type="checkbox" checked="checked" class="allcheck" /><span class="normal">全选</span></li>
+					<li>所选商品</li>
+					<li>单价（元）</li>
+					<li>数量</li>
+					<li>优惠</li>
+					<li>小计（元）</li>
+					<li>操作</li>
+				</ul>
+			</div>
+			<div id="content_cart_body">
+				<div class="cart_body" style="display: none;">
+					<input type="checkbox" class="simplecheck" />
+					<img src="../images/detailPage/4002.jpg" />
+					<p class="title_cart color">【赠价值169元取暖器】华为 Mate 8（全网通）4+64GB香槟金
+颜色：香槟金行货64GB
+套装：官方标配</p>
+					<span class="simple_price">3399</span>
+					<div class="number">
+						<button class="removeNumber">-</button>
+						<input type="text" value="1" class="num"/>
+						<button class="addNumber">+</button>
+					</div>
+					<p class="youhui">--</p>
+					<span class="litter_sum">3399</span>
+					<a class="push color">移入收藏夹</a>
+					<div class="delete color">删除
+						<div class="confirm">
+							<p>是否确认删除该商品</p>
+							<p>
+								<a class="yes">是的</a>
+								<a class="no">取消</a>
+							</p>
+						</div>
+					</div>	
+				</div>
+				<div class="sumdiv sum_all">
+					<span>商品总计（不含运费）:</span>
+					<span class="sum_price">￥0</span>
+				</div>
+			</div>
+			<div id="piliang">
+				<div id="piliang_l">
+					<a href="##" class="color">批量删除</a>
+				</div>
+				<div id="piliang_r">
+					<a href="##" class="color">继续购物</a>
+					<button>去结算</button>
+				</div>
+			</div>
+		</div>
+		<!---------------------------------------------添加购物车的结构------------------------------------->
+		<div id="main_content">
+			<div class="main_cart">
+				<img src="" />
+				<p class="goods_title"></p>
+				<span class="price"></span>
+				<button>加入购物车</button>
+			</div>
+			<div class="main_cart">
+				<img src="" />
+				<p class="goods_title"></p>
+				<span class="price"></span>
+				<button>加入购物车</button>
+			</div>
+			<div class="main_cart">
+				<img src="../images/detailPage/4004.jpg" />
+				<p class="goods_title">【顺丰包邮+手机大礼包】机大礼包】魅【顺丰包邮+手机大礼包】魅</p>
+				<span class="price">￥133313</span>
+				<button>加入购物车</button>
+			</div>
+			<div class="main_cart">
+				<img src="../images/detailPage/4001.jpg" />
+				<p class="goods_title">【顺丰包邮+手机大礼包】魅【顺丰包邮+手机大礼包】魅【顺丰包邮+手机大礼包】魅</p>
+				<span class="price">￥121213</span>
+				<button>加入购物车</button>
+			</div>
+			<div class="main_cart">
+				<img src="../images/detailPage/4005.jpg" />
+				<p class="goods_title">【顺丰包邮+手机大礼包】魅【顺丰包邮+手机大礼包】魅【顺丰包邮+手机大礼包】魅</p>
+				<span class="price">￥222223</span>
+				<button>加入购物车</button>
+			</div>
+		</div>
+		<div id="cart-bottom">
+			<div class="ul">
+				<li><a href="##" class="color">关于商城</a></li>
+				<li><a href="##" class="color">营销中心</a></li>
+				<li><a href="##" class="color">服务中心</a></li>
+				<li><a href="##" class="color">联系我们</a></li>
+				<li><a href="##" class="color">发展历程</a></li>
+				<li><a href="##" class="color">媒体报道</a></li>
+			</div>
+			<p>©2016中关村在线 版权所有. 京ICP备09041801号-182 京ICP证010391号</p>
+			<div class="picdiv">
+				<img src="../images/jingcha.png" />
+				<img src="../images/beian.png" />
+				<img src="../images/2016-12-06_223548.jpg" />
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="../js/jquery-1.11.3.js"></script>
+	<script type="text/javascript" src="../js/index.js"></script>
+	<script type="text/javascript" src="../js/cart.js" ></script>
+</html>

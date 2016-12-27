@@ -1,0 +1,405 @@
+{
+ "hot": [
+        {
+            "img": "../images/testimg/ChMkJlf_dmqIUH4PAAB0L1uwRh8AAW3sQMMZGgAAHRH229.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_djuIWZOyAACHupNHnFAAAW3sQJzWmsAAIfS212.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_diKIT7uwAABfvsSAIQIAAW3sQI5gkgAAF_W031.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_dgWINoZOAABieRiPEcMAAW3sQH6k0wAAGKR989.jpg"
+        }
+    ],
+    "hot_twoFloor": [
+        {
+            "img": "../images/testimg/ChMkJlf_cbCIWP5bAACSqmS5nQsAAW3rAON2YoAAJLC982.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_cbeIS-ajAACUW-ZHy6cAAW3rAPGhwAAAJRz371.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1gi8k2IBCDMAACfx59lzo8AAXm3wFq4rAAAJ_f605.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlgi8nuIPU6rAACWRxDXEM8AAXm3wJgAwAAAJZf494.jpg"
+        }
+    ],
+    "hot_threeFloor": [
+        {
+            "img": "../images/testimg/ChMkJ1f_d4uIVmvHAACWmb1jZuAAAW3tAE-pO8AAJax447.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_d8KIGni0AAB65h8c_XgAAW3tAHw9tkAAHr-061.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1f_d_CIWcdSAACY3mPkCpcAAW3tQEYwVQAAJj2349.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1gENlyIBl4dAACT3xVTONsAAW9nwCuzQ4AAJP3334.jpg"
+        }
+    ],
+    "oneFloor": [
+        {
+            "img": "../images/testimg/ChMkJ1f_cvaIR29oAAFCkKqZvucAAW3rgIdq7MAAUKo044.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1f_cuGIVxOKAAFUIVNzR18AAW3rgHblPsAAVQ5841.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlgPBBmIWavhAAGdIl3mbysAAXLiAOkM7UAAZ06784.jpg"
+        }
+    ],
+    "twoFloor": [
+        {
+            "img": "../images/testimg/ChMkJlf_ZUuIK98DAAFc6neogPMAAW3mQJ-Dh4AAV0C848.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlf_ZW2IUYQNAAGIhuzjwOcAAW3mQL3xzcAAYie416.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1gkQtiIHz8bAAFXO0NXWWkAAXohALQ55MAAVdT893.jpg"
+        }
+    ],
+    "threeFloor": [
+        {
+            "img": "../images/testimg/ChMkJlgENMuIJsPYAAHkwUdzGKIAAW9mwKRS6kAAeTZ972.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1g_nXmIFsEuAAMFE8YhHNgAAYM3QHd658AAwUr690.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1gIaR-IM23BAAF1RyZ-ZHkAAXDIwKS7sAAAXVf621.jpg"
+        }
+    ],
+    "threestar":[
+    {
+    "img":"../images/testimg/ChMkJ1fGmH2IS7VzAAJ0di0xoygAAU31wCNs7EAAnSO744.jpg",
+   "title":"【购机送礼品】三星 W2016（电信4G）玻璃金属 3G+64G 1600W像素",
+    "now_price":"9999.00",
+    "sid":"1"
+    },
+    {
+     "img":"../images/testimg/ChMkJ1eRjp-IV0mFAAEkInbXGvIAATt0ALmKyIAASQ6110.jpg",
+    "title":"【顺丰包邮】三星 GALAXY C5(C5000 32G 全网通)",
+     "now_price":"1847.00",
+     "sid":"2"
+    },
+    {
+    "img":"../images/testimg/ChMkJlgRXGCIfvoGAAGlW2v7Dz8AAXOgQDuOEUAAaVz864.jpg",
+    "title":"三星 2016版GALAXY A5（A5100/全网通）5.2英寸屏幕，2G+16G内存",
+    "now_price":"1999.00",
+    "sid":"3"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1f_KTCIQixMAAC9_1tLlpkAAW3JQP67CEAAL4X957.jpg",
+    "title":"【顺丰包邮 送钢化膜 手机壳】三星 GALAXY S7（G9300/全网通）",
+    "now_price":"3569.00",
+    "pre_price":"￥3966.00",
+    "sid":"4"
+    },
+     {
+    "img":"../images/testimg/ChMkJlgxFiKIFWRTAAFDHVFJ4NkAAX5-wLJ-CcAAUM1608.jpg",
+    "title":"【顺丰包邮 送钢化膜 手机壳】三星 GALAXY S7（G9300/全网通）",
+    "now_price":"2987.00",
+    "pre_price":"￥3199.00",
+    "sid":"5"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1f_KTCIQixMAAC9_1tLlpkAAW3JQP67CEAAL4X957.jpg",
+    "title":"【顺丰现货】三星 GALAXY C9 Pro(C9000/全网通)6英寸6G+64G",
+    "now_price":"￥3569.00",
+    "pre_price":"￥3966.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlgJynCIXKEyAAL96S1h3g8AAXFAwBGMAsAAv4B935.jpg",
+    "title":"三星 GALAXY C7（C7000/全网通）4GB+32GB标准版/全网通",
+    "now_price":"￥2299.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJlghNkSIIPw2AADJS86C2h0AAXkdAHfjJcAAMlj964.jpg",
+    "title":"三星 Galaxy Note II N7100 联通3G手机",
+    "now_price":"￥1299.00"
+    }
+    ],
+    
+    
+     "huawei":[
+    {
+    "img":"../images/testimg/ChMkJlf59BeIUxG5AANGuWldeS0AAWtrAG1lYIAA0bR864.jpg",
+   "title":"【爱科入网价1699元+充值200元话费】华为 Nova 全网通 4GB+64GB",
+    "now_price":"￥1899.00"
+    },
+    {
+     "img":"../images/testimg/ChMkJ1eyiT-ICrtsAAGLY7FYGncAAUedgD7OvwAAYt7429.jpg",
+    "title":"【限时抢购 直降400元】华为 P9（全网通）3+32GB",
+     "now_price":"￥3188.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJlc0RNWIJN48AAQDchuE4IMAARTxAOPy-sABAOK157.jpg",
+    "title":"【顺丰包邮+手机大礼包】Huawei 华为 G9 青春版(VNS-AL00  全网通)",
+    "now_price":"￥1499.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1giygGIW9m0AAEKTC1ImvoAAXmnQDaX6AAAQpk413.jpg",
+    "title":"华为 畅享6（NCE-AL00/全网通）",
+    "now_price":"￥1299.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1gN5-KIbJAkAAnranPS-gYAAXKSgFoUzYACeuC862.jpg",
+    "title":"华为Mate 8(NXT-AL10/4GB RAM/全网通)6.0英寸屏幕,4G +64G内存",
+    "now_price":"￥2997.00",
+   "pre_price":"￥3399.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlg9ShSIXIyjAASO5ZXvteYAAYJ4wAZUB0ABI79104.jpg",
+    "title":"【华为授权专卖 顺丰包邮】华为Mate9(MHA-AL00/128G顶配版)",
+    "now_price":"￥5278.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlfwgEOIOMDoAAehwF0_2L0AAWh-gLz4BQAB6HY161.png",
+    "title":"【顺丰包邮送手机壳+钢化膜】华为 麦芒4（RIO-AL00/高配版/全网通)",
+    "now_price":"￥1680.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1dCuX6IDdFpAADsnErHm8AAARymQNjgxsAAOy0021.jpg",
+    "title":"华为 G7 Plus（移动4G）5.5 英寸 双卡双待 八核2G/16G  1300万像素",
+    "now_price":"￥1068.00"
+    }
+    ],
+    
+    
+      "note":[
+    {
+    "img":"../images/testimg/Cg-4WlUOf2eIQm67AACGKuLwJIwAAAA9gJTPjgAAIZC734.jpg",
+   "title":"【顺丰包邮】华硕 U303L  13.3英吋超极本影音娱乐 商务办公",
+    "now_price":"￥5299.00"
+    },
+    {
+     "img":"../images/testimg/ChMkJlegdD-IL1Y9AAQO_pEjfIIAAUF6ABx1pEABA8W515.jpg",
+    "title":"【顺丰包邮】联想 拯救者15-ISK（i7典藏版）15.6英寸游戏本",
+     "now_price":"￥6618.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1b-SI2IfLa0AAVfE4f6Ku4AAO9kQFsTsIABV8r630.png",
+    "title":"【顺丰包邮】戴尔 Inspiron 灵越 15 5000（INS15MD-6648S）五代i5 4G内存  500G硬盘 独显 金属外壳 炫酷时尚",
+    "now_price":"￥4160.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJldQ_mWIVtWLAASNaEIcFqEAASNWAEpMYMABI2A644.jpg",
+    "title":"【华硕授权专卖 自提先验货后付款 在线购买 顺丰包邮】华硕 FX-PRO（i7-6700HQ/8GB/1TB+128GB/4G独显）游戏笔记本电脑15.6英寸I7",
+    "now_price":"￥6499.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJldCaVCIUsHFAAIu2iRmDCAAARxyQNR1-8AAi7y799.jpg",
+    "title":"（北京微软授权代理）（原装屏幕膜免费送）微软 Surface Pro 4（M3/4GB/128GB/*版）银色",
+    "now_price":"￥5266.00"
+    },
+    {
+    "img":"../images/testimg/Cg-4WVWOd2eIeSAeAADUrNpuI_0AAGDCQGdCc0AANTE084.jpg",
+    "title":"华硕 R553LN4200  清仓中（I5-4200H处理器 4G内存 500G硬盘  GT840M独立显卡 2G显存 15.6英寸笔记本 银色）",
+    "now_price":"￥4399.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlen9MaIZHaXAADn123YdX0AAUQTwH1zXwAAOfv885.jpg",
+    "title":"惠普 Pavilion 15-AU035TX（X0S90PA）",
+    "now_price":"￥3999.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1fQy2eIY0FKAAE1Pg5SO74AAVG9AJx8t8AATVW692.jpg",
+    "title":"华硕 VM510L5200",
+    "now_price":"￥3465.00"
+    }
+    ],
+    
+    
+     "computer":[
+    {
+    "img":"../images/testimg/ChMkJlfrKcuIItcYAARiNCEEeA4AAWbBwLDOHIABGJM648.jpg",
+   "title":"【全国联保 赠高清膜】苹果 iPad mini 4（128GB/WiFi版）金色/白色",
+    "now_price":"￥3538.00"
+    },
+    {
+     "img":"../images/testimg/ChMkJlfrLciIQ735AAOXuPndbb0AAWbEQPURssAA5fQ365.jpg",
+    "title":"【全国联保 赠高清膜】苹果 9.7英寸iPad Pro（128GB/WiFi版）金色",
+     "now_price":"￥5168.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1bmKcOIfHWcAAnboD5UkpAAANidQBmgwIACdu4230.png",
+    "title":"【下单送高清膜+顺丰包邮】苹果 iPad Air 2 平板电脑 9.7英寸",
+    "now_price":"￥4388.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1d2AQmIE9hrAALWpDflz-gAATIEAL9af4AAta8707.jpg",
+    "title":"【apple授权专卖 顺丰包邮】苹果 iPad mini 4（128GB/Cellular)",
+    "now_price":"￥4956.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1agn0iIZrSZAALRFe0xMB0AAHhowP6PwEAAtEt050.png",
+    "title":"三星 GALAXY Tab A 9.7（T555C）9.7寸四核心电话平板  双频WiFi ",
+    "now_price":"￥2488.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1frdaSIYxmOAAGZRgeBVqsAAWbgQGz1zEAAZle179.jpg",
+    "title":"【送华为礼包】华为 平板M3 8.4英寸平板电脑八核4G 1920*1200分辨率",
+    "now_price":"￥1928.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1eYKSGITAdCAAJ_zUyNdKcAAT4igIYG-EAAn_l145.jpg",
+    "title":"酷比魔方 i10 双系统版 WIFI 32GB10.6寸英特尔四核WIN10平板电脑",
+    "now_price":"￥689.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1gud_iII2X6AAVt9mFtWk8AAX2XQF_ySwABW4O708.png",
+    "title":"【顺丰现货】荣耀 平板2（3GB/16GB/WiFi版）标准版 8英寸",
+    "now_price":"￥935.00"
+    }
+    ],
+    
+    
+     "camera":[
+    {
+    "img":"../images/testimg/ChMkJldiVKqIMGSBAAEV433sPzEAASqfQACA4QAARX7438.jpg",
+   "title":"尼康（Nikon）D7100 单反套机（ AF-S 18-140mmf/3.5-5.6G ED VR 镜头",
+    "now_price":"￥5589.00"
+    },
+    {
+     "img":"../images/testimg/Cg-4WlUokaOIEo-6AADT90EZtXkAABVOAG10q8AANQP977.jpg",
+    "title":"索尼 ILCE-5100套机(16-50mm) 索尼A5100L（16-50）镜头套机ILCE5100L",
+     "now_price":"￥5168.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1dguJiINySaAAEXFZo6hzcAASnwQLGgs8AARct914.jpg",
+    "title":"佳能 数码单反相机 EOS 6D ( 24-105 ) KIT (EF 24-105mmf/4L IS USM)",
+    "now_price":"￥12600.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJlfPzl6IEa9eAAAtHAeTy-8AAVF2wPv3OsAAC00646.jpg",
+    "title":"尼康（Nikon） D5500（18-55mm VR II）尼康签约经销商，产品有保障。",
+    "now_price":"￥3799.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlfPzl6IEa9eAAAtHAeTy-8AAVF2wPv3OsAAC00646.jpg",
+    "title":"HTC 如影(Re)",
+    "now_price":"￥599.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJlg-JMKIMPscAAEvjslpt3AAAYKzAGFnIkAAS-m348.jpg",
+    "title":"佳能（Canon）EOS M5（EF-M 15-45mm f/3.5-6.3 IS STM）微型单电套机",
+    "now_price":"￥6188.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1diEP6Ib0qiAACeEdyFjMQAASp8gFryoIAAJ4p264.jpg",
+    "title":"索尼（SONY）ILCE-7M2/a7M2 全画幅微单相机 搭配FE24-70F4  五轴防抖",
+    "now_price":"￥17850.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1frR46IJL-0AAGZ5Tfegn4AAWbPQIUxukAAZn9707.jpg",
+    "title":"尼康（Nikon D5300 （AF-P DX 18-55mm f/3.5-5.6G VR II 尼克尔镜头",
+    "now_price":"￥3300.00"
+    }
+    ],
+    
+    
+     "vidicon":[
+    {
+    "img":"../images/testimg/ChMkJ1blEk-IXqPfAAEtDaxvsWAAANdoAKfJAgAAS0l664.jpg",
+   "title":"佳能（Canon）LEGRIA HF R706 家用数码摄像机专业摄影DV婚庆",
+    "now_price":"￥2160.00"
+    },
+    {
+     "img":"../images/testimg/ChMkJ1dnb7-ILDoSAACnOdi0L4YAASx6gNqw0AAAKdR806.jpg",
+    "title":"索尼（SONY）数字摄录一体机 专业数码摄像机 PXW-FS7K(含28-135镜头)",
+     "now_price":"￥65000.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJleoPnyIZvzkAADcuSLnvtIAAUQygP9oO0AANzR820.jpg",
+    "title":"佳能 HF R76 佳能（Canon）LEGRIA HF R76 数码摄像机佳能HFR76摄像机",
+    "now_price":"￥2488.00"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1ZAehKIDQ7KAAB7YP3B7KgAAEsVQD11BIAAHt4236.jpg",
+    "title":"佳能（Canon）LEGRIA HF R66家用数码摄像机HFR66（ 约328万像素",
+    "now_price":"￥2570.00"
+    },
+     {
+    "img":"../images/testimg/cetWQzuUOecR6.jpg",
+    "title":"sony索尼Z100,索尼 PXW-Z100*，更完善的售后服务，尽在锐意摄影器材。",
+    "now_price":"￥27980.00"
+    },
+    {
+    "img":"../images/testimg/Cg-4WVUwgjuILfnDAAFMPZ3OeggAABuOAL_sZkAAUxV601.jpg",
+    "title":"Sony 索尼 HXR-MC2500专业摄像机",
+    "now_price":"￥7460.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJlgZcTyIa0zvAADyuHgvI78AAXZmwOkhdkAAPLQ401.jpg",
+    "title":"松下 HC-V380 Panasonic/松下 HC-V380GK 高清家用摄像机 松下V380GK",
+    "now_price":"￥2699.00"
+    },
+     {
+    "img":"../images/testimg/ChMkJldf07yILEUzAAB89EQotl0AASmfAOxR8QAAH0M044.jpg",
+    "title":"佳能（Canon） 专业数码摄像机 录像机 XA30 专业数码摄像机 新品",
+    "now_price":"￥10300.00"
+    }
+    ],
+    
+    
+     "hot_goods":[
+    {
+    "img":"../images/testimg/ChMkJ1cgOqWIPCHYAAOB7FYotjQAAQrMAMyOawAA4IE192.jpg",
+   "title":"联想 IdeaPad 710S（i3-6100/4GB/128GB-SSD）金色/银色",
+    "now_price":"￥3699"
+    },
+    {
+     "img":"../images/testimg/ChMkJlbyMg2IAyO-AASsnSjv7-sAAOXMQKd64wABKy1701.jpg",
+    "title":"【送六件套】神舟 战神 K610D-i7 D2 （i7 4G 500GB 2G独显 ）",
+     "now_price":"￥3588"
+    },
+    {
+    "img":"../images/testimg/ChMkJle9OsiIbelBAAEd35LB6YEAAUrzwPLrF0AAR33895.jpg",
+    "title":"【顺丰包邮  送贴膜】苹果 9.7英寸iPad Pro（32GB/WiFi版）",
+    "now_price":"￥4039"
+    },
+    {
+    "img":"../images/testimg/ChMkJlfbVv-ISWtNAANyVGn7iz8AAWE_gPKt4AAA3Js016.jpg",
+    "title":"【爱科入网价5588元+充值300元话费】苹果 iPhone 7 Plus（全网通）",
+    "now_price":"￥5888"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1gv7M6IA73hAAESgqi0xL0AAX4ogAQ32kAARKa588.jpg",
+    "title":"【顺丰包邮 送手机壳  钢化膜】魅族 MX6 移动 联通 电信全网通手机",
+    "now_price":"￥1489"
+    },
+    {
+    "img":"../images/testimg/ChMkJ1eobjmIR3NUAAHnyb4ybOsAAURFwKigzIAAefh492.jpg",
+    "title":"【 顺丰包邮】华硕 灵耀U3000（i7 6500U/8GB/512GB） 灵耀U4000全新到货！13.3英寸时尚轻薄超极本 酷睿i7-6500U 8G 512G固态",
+    "now_price":"￥5886"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1fp0JCIENvZAAQNCcx5ljAAAWZJgIJHg8ABA0h607.jpg",
+    "title":"【爱科入网价999元+充值200元话费】中兴 AXON 智尊版/全网通4G+128G",
+    "now_price":"￥1199"
+    },
+     {
+    "img":"../images/testimg/ChMkJ1expySILsDjAACu46rzGXoAAUdIQIwi7sAAK77799.jpg",
+    "title":"【顺丰包邮】苹果 iPhone 4S（8GB） 【联通3G版不支持电信】",
+    "now_price":"￥1799"
+    }
+    ,
+     {
+    "img":"../images/testimg/ChMkJ1fp0JCIENvZAAQNCcx5ljAAAWZJgIJHg8ABA0h607.jpg",
+    "title":"【爱科入网价999元+充值200元话费】中兴 AXON 智尊版/全网通4G+128G",
+    "now_price":"￥1199"
+    },
+     {
+    "img":"../images/testimg/ChMkJleq1waIBP_BAAO3KlvQqkgAAUUeQOgdqAAA7dC093.jpg",
+    "title":"惠普 OMEN 15-ax016TX  暗影精灵2代 15.6寸影音娱乐游戏本 i5-6300H 4G DDR4代 128G固态+1TB GTX960M-2G独显",
+    "now_price":"￥5547"
+    }
+    ]
+    
+
+}

@@ -1,0 +1,974 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+span,
+a {
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #000;
+}
+
+#nav_top {
+	background: #F5F5F5;
+	width: 100%;
+	border-bottom: 1px solid #E6E6E6;
+}
+
+#nav {
+	background: #F5F5F5;
+	height: 30px;
+	line-height: 30px;
+}
+
+.nav_left {
+	float: left;
+}
+
+.nav_left a {
+	margin-right: 26px;
+}
+
+.nav_right {
+	float: right;
+}
+
+.nav_right li {
+	float: left;
+	margin-right: 20px;
+}
+
+.nav_right .icon_1 {
+	background: url(../images/topbar_ico.png) no-repeat 0 0;
+	padding: 4px 0 4px 24px;
+	margin-left: -12px;
+	margin-right: 10px;
+}
+
+.nav_right .icon_2 {
+	background: url(../images/topbar_ico.png) no-repeat 0 -45px;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 7px;
+	right: -26px;
+}
+
+.nav_right .QRcode {
+	width: 130px;
+	height: 130px;
+	position: absolute;
+}
+
+.nav_right .buyer {
+	position: absolute;
+	width: 106px;
+	height: 70px;
+	background: white;
+	padding-left: 5px;
+}
+
+.nav_right .buyer span {
+	color: #EB2728;
+}
+
+.nav_right .buyer a {
+	text-decoration: none;
+}
+
+.nav_right .phone {
+	position: absolute;
+	height: 30px;
+	top: 30px;
+	right: 15px;
+	background: white;
+	border: 1px solid #F5F5F5;
+	line-height: 30px;
+}
+
+.nav_right .phone li {
+	text-align: center;
+	width: 100px;
+	font-size: 12px;
+}
+
+.hide {
+	display: none;
+}
+
+.relative {
+	position: relative;
+	margin-right: 10px;
+}
+
+a:hover.relative {
+	text-decoration: none;
+}
+
+.nav_right .low {
+	top: 10px;
+}
+
+a:hover {
+	color: #CE1A1B;
+	text-decoration: underline;
+}
+
+.hover_pre {
+	color: blue;
+	text-decoration: none;
+}
+
+.x {
+	border-right: 1px solid #AABBCC;
+	padding-right: 15px;
+}
+
+input {
+	border: 0 none;
+	outline: 0 none;
+}
+
+#seacher {
+	padding-top: 30px;
+}
+
+#seacher_l {
+	float: left;
+	width: 350px;
+	height: 75px;
+}
+
+#seacher_l_logo {
+	width: 180px;
+	height: 50px;
+	float: left;
+}
+
+#seacher_l_logo img {
+	width: 180px;
+	height: 50px;
+	border-right: 1px solid #AABBCC;
+	padding-right: 10px;
+	float: left;
+}
+
+#seacher_l_logoright {
+	float: right;
+	background: url(../images/tc-logo.jpg) no-repeat 10px 21px;
+	width: 156px;
+	height: 50px;
+	position: relative;
+}
+
+#seacher_l_logoright .red,
+#seacher_l_logoright .red:hover {
+	background: #C40000;
+	color: white;
+}
+
+#seacher_l_logoright ul {
+	width: 157px;
+	height: 75px;
+	position: absolute;
+	top: 23px;
+	left: 234;
+	background: white;
+}
+
+#seacher_l_logoright ul li {
+	cursor: pointer;
+	font-size: 12px;
+	float: left;
+	width: 42px;
+	height: 23px;
+	line-height: 23px;
+	margin: 5px;
+	text-align: center;
+}
+
+#seacher_l_logoright li:hover {
+	color: #C40000;
+	background: #F5F5F5;
+}
+
+#seacher_l_logoright span {
+	position: relative;
+	font-size: 16px;
+	cursor: pointer;
+	padding: 20px 20px 0 10px;
+	background: url("../images/city-icon.png") no-repeat 50px 27px;
+	width: 10px;
+	height: 34px;
+}
+
+#seacher_c {
+	width: 542px;
+	height: 35px;
+	line-height: 30px;
+	border: 2px double #C40000;
+	float: left;
+	margin-left: 50px;
+	margin-top: 9px;
+}
+
+.text {
+	padding: 15px;
+	float: left;
+	height: 5px;
+	width: 400px;
+	border: 0 none;
+	outline: 0 none;
+}
+
+.submit {
+	cursor: pointer;
+	color: white;
+	text-align: center;
+	width: 90px;
+	line-height: 35px;
+	height: 35px;
+	float: right;
+	display: block;
+	background: #C40000;
+}
+
+#seacher_r {
+	cursor: pointer;
+	float: right;
+	background: url("../images/CSS Satyr.png") no-repeat -240px -62px;
+	width: 180px;
+	height: 60px;
+	margin-top: -10px;
+}
+
+#hot_search ul {
+	width: 450px;
+	margin-left: 400px;
+}
+
+#hot_search li {
+	float: left;
+	margin-right: 20px;
+	margin-top: 8px;
+}
+
+#hot_search a {
+	color: #999;
+}
+
+#hot_search a:hover {
+	color: #EC2829;
+	text-decoration: underline;
+}
+
+.good_title {
+	height: 40px;
+	border: 1px solid #BD3B3C;
+	padding: 10px 0px 10px 10px;
+	background: #B1191A
+}
+
+.good_title span,
+.good_title a {
+	color: white;
+}
+
+.good_title span {
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+.good_title .icon {
+	background: url(../images/classify-icon.png) no-repeat;
+}
+
+.good_title .icon1 {
+	background-position: left 0px;
+}
+
+.good_title .icon2 {
+	background-position: left -16px;
+}
+
+.good_title .icon3 {
+	background-position: left -32px;
+}
+
+.good_title .icon4 {
+	background-position: left -48px;
+}
+
+.good_title .icon5 {
+	background-position: left -66px;
+}
+
+.good_title .icon6 {
+	background-position: left -84px;
+}
+
+.good_title .icon7 {
+	background-position: left -100px;
+}
+
+.good_title div {
+	padding-left: 20px;
+	margin-top: 5px;
+}
+
+.good_title .title_icon {
+	background: url(../images/item.png) no-repeat 9px 4px;
+	margin-left: 80px;
+}
+
+.hover_goods {
+	background: white;
+}
+
+
+/*--------------------------左侧隐藏的部分-------------------------*/
+
+.service dt,
+.service dd,
+.serve dt,
+.serve dd {
+	float: left;
+	margin-right: 20px;
+}
+
+dl.service,
+dl.serve {
+	height: 30px;
+	padding-top: 20px;
+}
+
+.left {
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	z-index: 10;
+	width: 1000px;
+	height: 432px;
+	border-bottom: 1px solid #CE1A1B;
+	border-right: 1px solid #CE1A1B;
+}
+
+.service dd a,
+.service dt a {
+	color: #61CCAA;
+}
+
+.service dt a,
+.serve dt a {
+	font-weight: bolder;
+}
+
+.service dd {
+	background: url(../images/service.png) no-repeat left top;
+	height: 22px;
+	padding-left: 28px;
+}
+
+.serve a {
+	color: #000;
+}
+
+.serve a:hover {
+	color: #CE1A1B;
+	text-decoration: underline;
+}
+
+.service .dd2 {
+	background-position: left -24px;
+}
+
+.service .dd3 {
+	background-position: left -48px;
+}
+
+.service .dd4 {
+	background-position: left -72px;
+}
+
+.service .dd5 {
+	background-position: left -96px;
+}
+
+.service .dd6 {
+	background-position: left -120px;
+}
+
+.left ul {
+	bottom: 0px;
+	position: absolute;
+}
+
+.left ul li {
+	float: left;
+	background: url("../images/CSS Satyr.png") no-repeat;
+	width: 118px;
+	height: 60px
+}
+
+.left .li1 {
+	background-position: -120px -0px;
+}
+
+.left .li3 {
+	background-position: -542px -62px;
+}
+
+.left .li4 {
+	background-position: -0px -186px;
+}
+
+.left .li5 {
+	background-position: -240px -0px;
+}
+
+.left .li6 {
+	background-position: -960px -0px;
+}
+
+
+/*轮播图部分*/
+
+#nav_box_left p {
+	background: #CE1A1B;
+	text-align: center;
+	color: white;
+	line-height: 34px;
+	height: 34px;
+}
+
+#nav_box {
+	overflow: hidden;
+	padding-top: 20px;
+	position: relative;
+	height: 469px;
+}
+
+#nav_box_left {
+	width: 200px;
+	height: 490px;
+	overflow: hidden;
+}
+
+#nav_box_right {
+	position: absolute;
+	height: 468px;
+	top: 20px;
+	left: 200px;
+	width: 1000px;
+}
+
+.nav_box_t {
+	border-bottom: 2px solid #CE1A1B;
+	padding-bottom: 14px;
+	width: 1000px;
+}
+
+.nav_box_t li {
+	float: left;
+	padding: 5px 15px;
+}
+
+.nav_box_t li a {
+	font-size: 16px;
+}
+
+.nav_box_b {
+	height: 434px;
+	top: 34px;
+	left: 0px;
+	width: 1000px;
+}
+
+.nav_box_t li a:hover {
+	color: #EC2829;
+	text-decoration: none;
+}
+
+.nav_box_t p {
+	color: #EC2829;
+	position: relative;
+	right: -385px;
+	top: 8px;
+	cursor: pointer;
+}
+
+.box_b_left {
+	width: 740px;
+	height: 414px;
+	padding: 10px 0 0 10px;
+}
+
+.main_lunbo_img {
+	width: 740px;
+	height: 290px;
+}
+
+.box_b_left img {
+	width: 740px;
+	height: 290px;
+	position: absolute;
+	left: 740px;
+}
+
+.main_lunbo {
+	width: 740px;
+	height: 290px;
+	position: absolute;
+	overflow: hidden;
+}
+
+.btn_left,
+.btn_right {
+	background: url(../images/focus-arrow.png) no-repeat;
+	width: 39px;
+	height: 65px;
+	position: absolute;
+	top: 112px;
+}
+
+.btn_left {
+	background-position: 0 0;
+	left: 0px;
+}
+
+.btn_right {
+	background-position: 0 -69px;
+	right: 0px;
+}
+
+.btn_hover {
+	background-position-x: -39px;
+}
+
+.main_lunbo_list li {
+	cursor: pointer;
+	float: left;
+	background: url(../images/focus-index.png) no-repeat 0 0;
+	width: 18px;
+	height: 18px;
+	margin-right: 5px;
+	text-align: center;
+	color: white;
+}
+
+.main_lunbo_list.main_lunbo_list .li_hover {
+	background-position: 0 -20px;
+}
+
+.main_lunbo_list {
+	position: absolute;
+	bottom: 10px;
+	right: 5px;
+}
+
+
+/*主要推荐*/
+
+.main_recommend_list {
+	height: 132px;
+	width: 747px;
+	position: absolute;
+	top: 332px;
+}
+
+.main_recommend_list li {
+	position: relative;
+	padding: 8px 5px 0 10px;
+	float: left;
+	width: 169px;
+	height: 127px;
+	border-left: 1px solid #AABBCC;
+	border-bottom: 1px solid #AABBCC;
+}
+
+.main_recommend_list .border {
+	border-right: 1px solid #AABBCC;
+	width: 168px;
+}
+
+.main_recommend_list li a {
+	font-size: 16px;
+}
+
+.main_recommend_list li span {
+	font-size: 14px;
+	color: #B1191A;
+	display: block;
+	margin-top: 0px;
+}
+
+.main_recommend_list img {
+	width: 120px;
+	height: 90px;
+	position: absolute;
+	left: 46px;
+	bottom: 0;
+}
+
+
+/***************************************右***************************/
+
+.box_b_right {
+	width: 242px;
+	height: 424px;
+	position: absolute;
+	right: 0;
+	top: 44px;
+}
+
+.box_b_right img {
+	width: 240px;
+	height: 219px;
+}
+
+
+/*-------------------------------------全国团购---------------------------------*/
+
+#group_buying {
+	height: 280px;
+}
+
+#group_buying li {
+	float: left;
+	width: 294px;
+	border: 1px solid #E6E6E6;
+}
+
+#group_buying li img {
+	width: 300px;
+	height: 180px;
+}
+
+#group_buying div {
+	margin-top: 10px;
+	margin-left: 24px;
+}
+
+.hour,
+.min,
+.sec {
+	color: #EC0000;
+	font-size: 26px;
+	font-weight: bolder;
+}
+
+.banner {
+	background: url(../images/banner.gif) no-repeat;
+	width: 100%;
+	height: 90px;
+}
+
+
+/*---------------------------------1F手机通讯------------------------------------*/
+
+.telephone {
+	position: relative;
+	margin-top: 30px;
+}
+
+.tab,
+.tab_two_floor,
+.tab_three_floor {
+	position: absolute;
+	left: 360px;
+	top: 0;
+}
+
+.tab_title li,
+.tab_title_two_floor li,
+.tab_title_three_floor li {
+	float: left;
+	padding: 8px 30px;
+	border: 1px solid #E6E6E6;
+	font-size: 16px;
+}
+
+.tab_lunbo,
+.tab_lunbo_two_floor,
+.tab_lunbo_three_floor {
+	width: 838px;
+	position: absolute;
+	height: 218px;
+	overflow: hidden;
+}
+
+.tab_lunbo_img img,
+.lunbo_two_floor img,
+.lunbo_three_floor img {
+	width: 838px;
+	height: 218px;
+	left: 838px;
+	position: absolute;
+	top: 0;
+}
+
+.tab_content {
+	position: absolute;
+	top: 37px;
+	height: 420px;
+	width: 840px;
+}
+
+.tab_lunbo_list li,
+.list_two_floor li,
+.list_three_floor li {
+	cursor: pointer;
+	float: left;
+	background: url(../images/hot-focus.png) no-repeat 0 0;
+	width: 8px;
+	height: 8px;
+	margin-right: 5px;
+}
+
+.tab_lunbo_list .li_hover,
+.list_two_floor .li_hover,
+.list_three_floor .li_hover {
+	background-position: 0 -10px;
+}
+
+.tab_lunbo_list,
+.list_two_floor,
+.list_three_floor {
+	position: absolute;
+	bottom: 10px;
+	left: 400px;
+}
+
+.btn_l,
+.btn_r,
+.btn_r_two_floor,
+.btn_l_two_floor,
+.btn_r_three_floor,
+.btn_l_three_floor {
+	background: url(../images/focus-arrow.png) no-repeat;
+	width: 39px;
+	height: 65px;
+	position: absolute;
+	top: 90px;
+}
+
+.btn_l,
+.btn_l_two_floor,
+.btn_l_three_floor {
+	background-position: 0 0;
+	left: 0px;
+}
+
+.btn_r,
+.btn_r_two_floor,
+.btn_r_three_floor {
+	background-position: 0 -69px;
+	right: 0px;
+}
+
+
+/*-----------------------------------tab切换   hot-----------------------------------*/
+
+.hot_pic {
+	position: absolute;
+	top: 218px;
+}
+
+.hot_pic img {
+	width: 200px;
+	height: 199px;
+	float: left;
+	border: 1px solid #E6E6E6;
+}
+
+
+/*-----------------------------------三星及其他相同布局 -----------------------------------*/
+
+.tab_content_layout {
+	width: 838px;
+	height: 420px;
+	position: absolute;
+	top: 34px;
+}
+
+.tab_content_layout li {
+	float: left;
+	width: 197px;
+	height: 188px;
+	border: 1px solid #E6E6E6;
+	padding: 10px 5px;
+}
+
+.tab_content_layout li img {
+	margin: 0 auto;
+	width: 120px;
+	height: 120px;
+	margin-left: 38px;
+	cursor: pointer;
+}
+
+.tab_content_layout li a {
+	display: block;
+	font-size: 12px;
+	line-height: 20px;
+	margin-bottom: 8px;
+	overflow: hidden;
+	height: 40px;
+}
+
+.tab_content_layout li a:hover {
+	color: #C40000;
+	text-decoration: underline;
+}
+
+.picture_list {
+	height: 65px;
+	border: 1px solid #E6E6E6;
+	border-top: none;
+}
+
+.picture_list li {
+	float: left;
+	padding-top: 5px;
+}
+
+.picture_list li img {
+	width: 118px;
+	height: 60px;
+}
+
+
+/*--------------------------------热卖商品-------------------------------------------*/
+
+#hot_goods {
+	margin-top: 20px;
+	overflow: hidden;
+	height: 367px;
+	position: relative;
+}
+
+#hot_goods li {
+	position: relative;
+	width: 221px;
+	height: 290px;
+	border: 1px solid #E6E6E6;
+	float: left;
+	padding: 8px;
+}
+
+#hot_goods li a {
+	height: 45px;
+	display: block;
+}
+
+#hot_goods img {
+	cursor: pointer;
+}
+
+.change {
+	cursor: pointer;
+	position: absolute;
+	right: 0;
+	top: 5px;
+	background: url(../images/other.png) no-repeat;
+	padding-left: 20px;
+	font-size: 12px;
+}
+
+
+/*--------------------------------赔付部分-------------------------------------------*/
+
+.end_big {
+	width: 100%;
+	border-bottom: 1px solid #E6E6E6;
+	border-top: 1px solid #E6E6E6;
+	margin-top: 30px;
+}
+
+.end {
+	height: 100px;
+}
+
+.end ul.end_ul li {
+	float: left;
+	background: url("../images/service-bg.png") no-repeat 0 0;
+	padding: 4px 26px 4px 49px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	cursor: pointer;
+}
+
+.end li p {
+	margin-left: 15px;
+}
+
+.end .end_t a {
+	font-size: 18px;
+	color: #666666;
+}
+
+.end .end_b a {
+	font-size: 14px;
+	color: #999999;
+}
+
+.end a:hover {
+	text-decoration: none;
+}
+
+.end .zheng {
+	background-position-y: -52px;
+}
+
+.end .huan {
+	background-position-y: -104px;
+}
+
+.end .bao {
+	background-position-y: -156px;
+}
+
+.end .you {
+	background-position-y: -208px;
+}
+
+.end .ji {
+	background-position-y: -260px;
+}
+
+
+/*-------------------弹窗-------------------------*/
+
+#tanchuang p.tan_reg {
+	position: absolute;
+	right: 104px;
+	top: 230px;
+}
+
+#tanchuang {
+	position: fixed;
+	top: 200px;
+	border: 1px solid #AABBCC;
+	height: 350px;
+	background: #FFF;
+}
+
+#emdelete{
+	font-weight: bolder;
+	cursor: pointer;
+	position: absolute;
+	font-style: normal;
+	right: 0;
+	top: 0;
+	background: pink;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+}

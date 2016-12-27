@@ -1,0 +1,478 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	color: #2D2D2D;
+}
+
+#top,
+#content,
+#foot,
+#login_content {
+	width: 980px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+#top {
+	height: 68px;
+}
+
+.top_l {
+	float: left;
+}
+
+.top_r,
+.top_rr {
+	float: right;
+	margin-top: 20px;
+}
+
+.top_r span,
+.top_rr span {
+	font-size: 14px;
+	font-family: "微软雅黑";
+}
+
+.top_l img {
+	border-right: 1px solid #CCCCCC;
+	padding-right: 5px;
+	margin-right: 5px;
+}
+
+.top_l a.simple {
+	margin-top: 0;
+	display: block;
+	margin-left: 200px;
+	margin-top: -43px;
+}
+
+.top_r .jump,
+.top_rr .jump {
+	color: #CE1A1B;
+	padding: 5px;
+}
+
+.top_r .jump:hover,
+.top_rr .jump:hover {
+	color: white;
+	background: #CE1A1B;
+}
+
+
+/*-----------------------注册中部------------------*/
+
+#content {
+	border: 1px solid #E6E6E6;
+	height: 600px;
+}
+
+.content_top {
+	height: 80px;
+	background: #FAFAFA;
+}
+
+.content_top p {
+	color: #999;
+	font-size: 16px;
+	line-height: 80px;
+	margin-left: 80px;
+}
+
+.content_left {
+	float: left;
+	margin-left: 72px;
+	margin-top: 50px;
+	width: 676px;
+}
+
+.content_left_t {
+	width: 676px;
+}
+
+.content_right {
+	float: right;
+	margin-right: 60px;
+	margin-top: 20px;
+}
+
+.content_right a.way {
+	background: red url(../images/login-bg.png) no-repeat;
+	margin-top: 20px;
+	display: block;
+	width: 170px;
+	height: 36px;
+}
+
+.content_right a.weixin {
+	background: url(../images/weixin.png) no-repeat;
+}
+
+.content_right a.qq {
+	background-position-y: -37px;
+}
+
+.content_right a.zhifubao {
+	background-position-y: -74px;
+}
+
+.content_right a.baidu {
+	background-position-y: -111px;
+}
+
+.mark {
+	color: red;
+}
+
+.label {
+	color: #666;
+	font-size: 14px;
+	line-height: 40px;
+}
+
+input.yanzhengma {
+	width: 90px;
+}
+
+.input {
+	padding: 8px 5px;
+	width: 230px;
+	height: 15px;
+	outline: 0 none;
+	border: 1px solid #ccc;
+}
+
+.hint {
+	display: block;
+	margin-left: 120px;
+	color: #aaa;
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+.error_hint {
+	color: red;
+	padding-left: 20px;
+	background: url(../images/login-bg.png) no-repeat -155px -198px;
+	font-size: 12px;
+	display: none;
+}
+
+.correct_hint {
+	display: block;
+	background: url(../images/login-bg.png) no-repeat -155px -162px;
+	width: 15px;
+	height: 15px;
+	float: right;
+	margin-top: 9px;
+	margin-right: 287px;
+	display: none;
+}
+
+div span.yzm {
+	float: right;
+	margin-right: 187px;
+	margin-top: -27px;
+}
+
+.code {
+	background: #61CCAA;
+	opacity: 0.3;
+	width: 98px;
+	height: 38px;
+	line-height: 38px;
+	margin-right: 352px;
+	float: right;
+	border: 1px solid #61CCAA;
+	text-align: center;
+	color: yellow;
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.codename {
+	float: right;
+	margin-right: 307px;
+	margin-top: -28px;
+}
+
+div.xieyi {
+	width: 233px;
+	height: 40px;
+	margin-left: 119px;
+	margin-top: 20px;
+}
+
+.xieyi .checkbox {
+	float: left;
+}
+
+.sss {
+	margin-top: -27px;
+}
+
+.xieyi .agree {
+	float: left;
+	display: inline-block;
+	margin-left: 6px;
+	margin-top: 0;
+}
+
+.xieyi .dingwei {
+	float: right;
+}
+
+.content_left_t {
+	width: 152px;
+	border-top: 2px solid #CC0000;
+	border-left: 1px solid #AABBCC;
+	border-right: 1px solid #AABBCC;
+	padding: 3px 46px;
+	margin-bottom: 20px;
+}
+
+.p {
+	background: url(../images/login-bg.png) no-repeat -158px -235px;
+	color: #CC0000;
+	padding: 10px 10px 10px 20px;
+}
+
+.code_name {
+	color: #134BA0;
+}
+
+.code_name:hover {
+	text-decoration: underline;
+	color: #DD2F2F;
+}
+
+.choose {
+	color: #666;
+	font: 12px/24px "微软雅黑"
+}
+
+.register {
+	background: #DD2F2F;
+	width: 150px;
+	height: 40px;
+	font: 14px/40px "微软雅黑";
+	color: white;
+	margin: 0 auto;
+	padding-left: 111px;
+	border-radius: 5px;
+	margin-left: 104px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+
+/*----------------------------------------登录注册尾部样式--------------------------------------*/
+
+#foot_mode,
+#login_foot {
+	border-top: 1px solid #E6E6E6;
+	width: 100%;
+	margin-top: 80px;
+	height: 30px;
+}
+
+#foot {
+	height: 40px;
+}
+
+.foot_l {
+	float: left;
+}
+
+.foot_r {
+	float: right;
+}
+
+.foot_l a {
+	border-right: 1px solid #E6E6E6;
+	font-size: 12px;
+	padding-right: 5px;
+	margin-right: 5px;
+}
+
+.foot_l a:hover {
+	text-decoration: underline;
+	color: #EC0000;
+}
+
+.foot_l a.special {
+	border-right: 0;
+}
+
+.foot_r span {
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+
+
+/*----------------------------------------登录中部样式--------------------------------------*/
+
+#login_content {
+	border: 1px solid #AABBCC;
+	height: 350px;
+}
+
+.login_content_l {
+	float: left;
+	width: 520px;
+}
+
+.login_content_r {
+	float: right;
+	width: 460px;
+	padding-top: 23px;
+}
+
+.p_t {
+	width: 278px;
+	margin: 0 auto;
+}
+
+.p_t span {
+	font-family: "微软雅黑";
+	color: #333;
+	font-size: 16px;
+	display: inline-block;
+	float: left;
+	margin-top: 7px;
+}
+
+.p_t a {
+	padding: 10px 20px 10px;
+	color: #000;
+	display: inline-block;
+	float: right;
+	background: url(../images/login-bg.png) no-repeat -158px -235px;
+}
+
+p.error_p {
+	border: 1px solid #FF3333;
+	color: #FF3333;
+	background: url(../images/bg.png) no-repeat -270px -89px;
+	height: 23px;
+	line-height: 23px;
+	font-size: 12px;
+	margin: 0 auto;
+	margin-top: 36px;
+	padding-left: 30px;
+	width: 211px;
+	display: none;
+}
+
+.login_content_r div.over {
+	height: 23px;
+	margin: 0 auto;
+	width: 243px;
+	margin-top: 32px;
+}
+
+.login_content_r .inputK {
+	margin: 10px auto;
+	width: 243px;
+}
+
+.login_content_r .inputK input {
+	color: #333;
+	border: 1px solid #ccc;
+}
+
+.login_content_r .register {
+	width: 139px;
+	cursor: pointer;
+	margin: 0 auto;
+}
+
+.login_content_r .mima {
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.partner_id {
+	color: #AAAAAA;
+	font-size: 12px;
+	margin: 10px auto;
+	width: 72px;
+	display: block;
+}
+
+.p_t {
+	background: red;
+	width: 242px;
+}
+
+.wx {
+	background: url(../images/bgs2.png) no-repeat;
+	width: 40px;
+	height: 38px;
+	display: block;
+}
+
+.wx:hover {
+	background-position: 0px -38px;
+}
+
+.partner_way {
+	width: 252px;
+	margin: 0 auto;
+}
+
+.partner_way span {
+	float: left;
+	margin: 0 6px;
+}
+
+.tx,
+.QQ,
+.zfb,
+.bd {
+	background: url(../images/bg.png) no-repeat;
+	display: block;
+	width: 38px;
+	height: 38px;
+}
+
+.tx {
+	background-position: 0 -82px;
+}
+
+.tx:hover {
+	background-position: 0 -121px;
+}
+
+.QQ {
+	background-position: -39px -82px;
+}
+
+.QQ:hover {
+	background-position: -39px -121px;
+}
+
+.zfb {
+	background-position: -78px -82px;
+}
+
+.zfb:hover {
+	background-position: -78px -121px;
+}
+
+.bd {
+	background-position: -117px -82px;
+}
+
+.bd:hover {
+	background-position: -117px -121px;
+}

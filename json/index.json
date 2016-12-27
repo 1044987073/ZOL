@@ -1,0 +1,53 @@
+{
+	"info": [
+		{
+			"title": "联想小新Air 13 Pro",
+			"price": "限时4799元",
+			"img": "../images/testimg/ChMkJ1gyTQOIHPzpAAAPSQJhwSgAAX7cwL40IwAAA9h641.jpg"
+		}, {
+			"title": "酷派 cool1 全网通",
+			"price": "团购价899元",
+			"img": "../images/testimg/ChMkJ1gz95KIS5ogAABry9TA0EIAAX-cAFOvZ0AAGvj689.jpg"
+		}, {
+			"title": "戴尔游匣15P-2648B",
+			"price": "团购价5088元",
+			"img": "../images/testimg/ChMkJ1g2UzmIRKPoAAAhPQBktpYAAYBtAOy_OMAACFV136.jpg"
+		}, {
+			"title": "ZUK Z2 4GB+64GB",
+			"price": "团购抄底价1329元",
+			"img": "../images/testimg/ChMkJ1ghyBaIYsSeAAAHk2EdbvwAAXliAA4Ef4AAAer322.jpg"
+		}
+	],
+	
+
+
+	"infomation": [
+		{
+			"img": "../images/testimg/ChMkJ1g2VjWIWneqAAC4gZHigyYAAYBugP_PGcAALiZ963.jpg"
+		}, {
+			"img": "../images/testimg/ChMkJlhA5S6INEnyAADzAbRe1RMAAYOhgBhU_UAAPMZ359.jpg"
+		}
+	],
+
+
+    "group": [
+        {
+            "img": "../images/testimg/ChMkJ1g-q0mIUy4rAADPvn215kQAAYLwgDHG80AAM_W310.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1gi4I-Id0j0AABTbn1Q9J4AAXmyAFz5nAAAFOG947.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJlg_ewaIGSnzAACHd8qxwT8AAYMmgPjrmAAAIeP617.jpg"
+        },
+        {
+            "img": "../images/testimg/ChMkJ1g__n6IMwUQAABa_2iDadQAAYNegFuG0EAAFsX195.jpg"
+        }
+    ]
+   
+}
+
+
+
+
+

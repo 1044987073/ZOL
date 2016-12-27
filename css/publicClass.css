@@ -1,0 +1,217 @@
+#nav,
+#seacher,
+#hot_search,
+#nav_box,
+#group_buying,
+.telephone,
+#hot_goods,
+.end,
+.foot,
+.foot_nav {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+img.hover_border {
+	border: 1px solid #B1191A;
+}
+
+#hot_goods li.hover_border {
+	border: 1px solid #B1191A;
+}
+
+li.line {
+	border-top: 2px solid #CC1919;
+	padding-top: 6px;
+}
+
+h2 {
+	margin-bottom: 10px;
+	margin-top: 20px;
+	background: url("../images/module-title.png") no-repeat;
+	padding-left: 10px;
+}
+
+.now_price {
+	font-size: 14px;
+	color: #C40000;
+	margin-left: 10px;
+}
+
+.pre_price {
+	font-size: 12px;
+	color: #999999;
+	margin-left: 5px;
+	text-decoration: line-through;
+}
+
+img {
+	border: 0;
+}
+
+.special {
+	padding: 0px 1px;
+	color: #FF3333;
+	border: 1px solid #FF3333;
+	margin-right: 0px
+}
+
+.particular {
+	background: #D54546;
+	padding: 5px 5px;
+	color: white;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+
+/*------------------------左边固定----------------------*/
+
+#fixed_left {
+	padding-top: 125px;
+	padding-right: 97px;
+	width: 100px;
+	height: 217px;
+	background: url('../images/qr-code.png') no-repeat center;
+	position: fixed;
+	left: -115px;
+	top: 250px;
+}
+
+#fixed_left img {
+	width: 137px;
+}
+
+#fixed_right {
+	width: 31px;
+	height: 100%;
+	position: fixed;
+	right: 0;
+	background: #2D2D2D;
+	z-index: 100;
+}
+
+.cover {
+	background: url(../images/bar_ico.png) no-repeat;
+	width: 31px;
+	height: 31px;
+	margin-right: 5px;
+	position: absolute;
+	cursor: pointer;
+}
+
+.order {
+	background-position-y: 0;
+	top: 40px;
+}
+
+.track {
+	background-position-y: -74px;
+	top: 80px;
+}
+
+.cart {
+	background-position-y: -111px;
+	top: 120px;
+	position: relative;
+}
+
+.cart div {
+	position: absolute;
+	top: 0;
+}
+
+.cart p {
+	color: red;
+	font-size: 28px;
+	font-weight: bolder;
+}
+
+.discount {
+	background-position-y: -693px;
+	top: 160px;
+}
+
+.toUp {
+	background: url(../images/bar_ico.png) no-repeat 0 -185px;
+	width: 31px;
+	height: 31px;
+	bottom: 5px;
+	position: fixed;
+}
+
+.suggest {
+	width: 31px;
+	height: 31px;
+	bottom: 35px;
+	position: fixed;
+}
+
+.suggest a {
+	color: white;
+}
+
+.cover div {
+	z-index: -1;
+	position: absolute;
+	right: 0px;
+	height: 30px;
+	background: red;
+	color: white;
+	display: none;
+	width: 80px;
+	line-height: 30px;
+	padding-top: 5px;
+	padding-left: 10px;
+	font-size: 12px;
+}
+
+
+/*------------------------搜索框悬浮款--------------------------*/
+
+#seacher_fly {
+	position: fixed;
+	top: 0;
+	display: none;
+	z-index: 10;
+	background: white;
+	width: 100%;
+	height: 50px;
+}
+
+#seacher_new {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#seacher_rr {
+	float: right;
+	margin-right: 95px;
+	margin-top: 18px;
+}
+
+#seacher_rr a {
+	background: url(../images/login.png) no-repeat;
+	color: #333;
+	padding-left: 18px;
+	margin-right: 10px;
+}
+
+#seacher_rr a:hover {
+	text-decoration: none;
+	color: #C40000;
+}
+
+#seacher_rr .login {
+	background-position-y: 2px;
+}
+
+#seacher_rr .reg {
+	background-position-y: -29px;
+}
+
+#seacher_rr #seacher_l_logo img {
+	width: 157px;
+	height: 32px;
+}
